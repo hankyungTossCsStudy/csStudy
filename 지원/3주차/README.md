@@ -2,7 +2,8 @@
 
 추가 일시: 2026년 4월 6일 오후 6:13
 강의: 스터디
-참고 자료: https://velog.io/@semi-cloud/MySQL-%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98%EA%B3%BC-%EC%9E%A0%EA%B8%88Lock-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98-%EA%B2%A9%EB%A6%AC-%EB%A0%88%EB%B2%A8, https://inpa.tistory.com/entry/MYSQL-%F0%9F%93%9A-%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98Transaction-%EC%9D%B4%EB%9E%80-%F0%9F%92%AF-%EC%A0%95%EB%A6%AC, https://haburu23.tistory.com/25
+참고 자료: https://velog.io/@semi-cloud/MySQL-%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98%EA%B3%BC-%EC%9E%A0%EA%B8%88Lock-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98-%EA%B2%A9%EB%A6%AC-%EB%A0%88%EB%B2%A8, 
+https://inpa.tistory.com/entry/MYSQL-%F0%9F%93%9A-%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98Transaction-%EC%9D%B4%EB%9E%80-%F0%9F%92%AF-%EC%A0%95%EB%A6%AC, https://haburu23.tistory.com/25
 
 # 💠 트랜잭션
 
