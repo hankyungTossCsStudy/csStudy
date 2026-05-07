@@ -1,10 +1,4 @@
-# 06. InnoDB 스토리지 엔진
-
-강의자료: https://tlatmsrud.tistory.com/m/187, https://velog.io/@semi-cloud/DB-InnoDB-%EB%B2%84%ED%8D%BC-%ED%92%80
-분야: Database
-
 <aside>
-💡
 
 Real MySQL 1권 4-2 InnoDB 아키텍처를 읽으며..
 
